@@ -26,6 +26,7 @@ name = "ferric_falcon"
 version = "0.1.0"
 dependencies = [
  "nalgebra",
+ "rand",
 ]
 
 [[package]]
